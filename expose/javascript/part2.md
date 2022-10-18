@@ -82,7 +82,7 @@ This code returns an error. Since let makes discountedPrice to be only valid in 
 
 
 18. The above program only prints out the time once when executed. Modify this code such that the program prints out the time every second. (this should be a JS file-part2-question18.js)
-
+    I used setInterval to implement the clock.
 19. What is the output of the above code?
     1
     4

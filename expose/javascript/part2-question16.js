@@ -7,7 +7,6 @@ let statistics = {
     blackCars: 40,
     rareCars: 2
 };
-
 for ( car in statistics) {
-    console.log(car);
+    if (car[0]=='r'&& statistics[car] % 2) console.log(statistics[car]);
 }

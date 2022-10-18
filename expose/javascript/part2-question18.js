@@ -4,4 +4,4 @@ function clock() {
         let time = d.toLocaleTimeString();
         console.log(time);
 }
-setTimeout(clock, 1000);
+setInterval(clock, 1000);
