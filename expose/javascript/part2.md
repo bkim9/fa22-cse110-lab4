@@ -41,6 +41,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;**student.greeting()**
     
     D. Accessing the name property of the object in the Favorite Teacher property in student
+    
     &nbsp;&nbsp;&nbsp;&nbsp;**student["Favorite Teacher"].name**
 
     E. Access the first index in the array of the courseLoad property of the student object
