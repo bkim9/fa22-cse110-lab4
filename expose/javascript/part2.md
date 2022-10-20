@@ -41,7 +41,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;**student.greeting()**
     
     D. Accessing the name property of the object in the Favorite Teacher property in student
-    
+
     &nbsp;&nbsp;&nbsp;&nbsp;**student["Favorite Teacher"].name**
 
     E. Access the first index in the array of the courseLoad property of the student object
@@ -65,7 +65,7 @@
     E. true==2 = **false**<br />
     F. true===Boolean(2) = **true**<br />
 15. Explain  the difference between the == and === operators.<br />
-    &nbsp;&nbsp;&nbsp;&nbsp;**=== is more strict version of == it checks if the type is different or not as oppose to ==**
+    &nbsp;&nbsp;&nbsp;&nbsp;**=== is more strict version of == it checks if the type is different, === output false as oppose to == which converts them to the same type**
 
 16. Given the above Object, write a for ..in loop that will iterate through it and print out the value of the property if the property starts with the letter r, or if the value of that property is an odd number. <br />
     &nbsp;&nbsp;&nbsp;&nbsp;**The code is in part2-question16.js**<br />
